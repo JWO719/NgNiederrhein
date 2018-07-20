@@ -1,0 +1,18 @@
+.todoList {
+  background-color: #fff;
+  border: 1px outset;
+  margin: 30px;
+  padding: 5px;
+  box-shadow: 3px 4px 6px 0px #00000030;
+}
+
+.todoItem {
+  border: 1px solid #f0f0f0;
+  padding: 10px 5px;
+}
+
+
+.todoItem.done {
+  opacity: 0.5;
+  text-decoration: line-through
+}

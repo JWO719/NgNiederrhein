@@ -1,0 +1,27 @@
+.App-header {
+  background-color: red;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.addTodo {
+  flex: 1;
+  margin: 30px;
+  background-color: #fff;
+  padding: 10px 10px;
+  box-shadow: 3px 4px 6px 0px #00000030;
+}
+
+.addTodo label {
+  padding-right: 10px;
+}
+
+
+.addTodo input {
+  flex:1;
+}
